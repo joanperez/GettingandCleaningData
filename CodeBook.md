@@ -127,7 +127,7 @@ Body Angular Acceleration Magnitude   | TimeDomain.BodyAngularAccelerationMagnit
 For variables derived from mean and standard deviation estimation, the previous labels
 are augmented with the terms "Mean" or "StandardDeviation".
 
-The data set is written to the file sensor_avg_by_act_sub.txt.
+The data set is written to the file tidydata_sensor_avg_by_act_sub.txt.
 
 References
 ----------
